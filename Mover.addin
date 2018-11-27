@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Mover
+     https://google.com
+     © Vitaclick, 2018
+	 
+	 The manifest file. -->
+<RevitAddIns>
+  <AddIn Type="Application">
+  	<AddInId>4828e77d-ded1-4c98-af18-bf3b1d2cc1fa</AddInId>
+    <Name>Mover</Name>
+    <Assembly>Mover/Mover.dll</Assembly>
+    <FullClassName>Vitaclick.Mover.ExternalApplication</FullClassName>
+    <VendorId>ru.blogspot.revit-addins</VendorId>
+    <VendorDescription>Vitaclick, https://google.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
